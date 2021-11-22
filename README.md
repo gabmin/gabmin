@@ -1,4 +1,7 @@
-### Hi there 👋  my name is gabmin Kim🇰🇷  <img src="https://img.shields.io/badge/rlarkqals@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+### Hi there 👋     
+my name is gabmin Kim🇰🇷  
+<br>
+<img src="https://img.shields.io/badge/rlarkqals@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 <hr/>
 
 #### I am studying to become a front-end developer.📒   
